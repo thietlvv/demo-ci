@@ -20,6 +20,8 @@
     phone VARCHAR(100),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=INNODB;</code>
+
+### composer install
 ### Start project
 **php spark serve**
 
